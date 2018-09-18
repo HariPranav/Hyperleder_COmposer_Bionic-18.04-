@@ -8,7 +8,7 @@ Before running the file open it with the command . $nano preq.sh
 
 Then edit the command ('Zesty'Xenial')
 
-Add (('Zesty'Xenial' 'Bionic' )
+Add ('Zesty'Xenial' 'Bionic' )
 
 Then run the command ./preq.sh 
 
