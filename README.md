@@ -16,7 +16,7 @@ Enjoy
 
 After running the command composer-playground , It will open up the blockchain platform in the local dev environment.
 
-Create a sample articipant and enter the name to connect to as admin@tutorial-network
+Create a sample participant and enter the name to connect to as admin@tutorial-network
 
 Then add another admin channel .
 
